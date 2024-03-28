@@ -87,5 +87,5 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 85,FRS12,467.687500,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,4.0W,,,,,
 86,FRS13,467.712500,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,4.0W,,,,,
 87,GMRSLOU,462.575000,+,5.000000,DTCS,88.5,88.5,654,NN,654,Tone->Tone,FM,5.00,,4.0W,Louisville - K.A.R.S. GMRS Repeater,,,,
-88,GMRSFKB,462.600000,+,5.000000,DTCS,88.5,88.5,315,NN,315,Tone->Tone,FM,5.00,,4.0W,Floyds Knobs - GMRS Repeater,,,,
+88,GMRSFKB,462.600000,+,5.000000,DTCS,88.5,88.5,351,NN,351,Tone->Tone,FM,5.00,,4.0W,Floyds Knobs - GMRS Repeater,,,,
 89,NOAAWX3,162.475000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,4.0W,,,,,
